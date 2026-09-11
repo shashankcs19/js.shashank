@@ -1,0 +1,28 @@
+let score = "33a"
+console.log(typeof score);
+
+let label = "33"
+console.log(typeof label);
+console.log( label);
+
+let valueInNumber = Number(score)
+console.log(valueInNumber);
+
+// "33" => 33
+// "33abc" => NaN
+//  true => 1; false => 0
+
+let isLoggedIn = "null"
+let BooleanisLoggedIn =Boolean(isLoggedIn)
+
+console.log(BooleanisLoggedIn);
+
+// 1 => true; 0 => false
+// "" => false
+// "hitesh" => true
+
+let someNumber = "wpw"
+
+let stringNumber = String(someNumber)
+ console.log(stringNumber);
+ console.log(typeof stringNumber);
