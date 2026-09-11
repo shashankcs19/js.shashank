@@ -1,0 +1,21 @@
+// console.log(2 > 1);
+// console.log(2 >= 1);
+// console.log(2 < 1);
+// console.log(2 == 1);
+// console.log(2 != 1);
+
+
+// console.log("2" > 1);
+// console.log("02" > 1);
+
+console.log(null > 0);
+console.log(null == 0);  // These will be the problems 
+console.log(null >= 0);
+
+console.log(undefined == 0);
+console.log(undefined > 0);
+console.log(undefined < 0);
+
+// === 
+
+console.log("2" === 2); // these compares them also checks their datatypes like string or numbers
